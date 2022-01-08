@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankit Raghuvanshi
 - 👀 I’m interested in coading
 - 🌱 I’m currently learning python programming
-- 📫 How to reach me ... email:- 28ankit.raghu@gmail.com ; linkedin:- www.linkedin.com/in/ankit-50a0a110b
+- 📫 How to reach me ... email:- 28ankit.raghu@gmail.com ; linkedin:- www.linkedin.com/in/ankit-rv
 
 
 <!---
