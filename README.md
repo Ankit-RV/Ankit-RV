@@ -2,10 +2,9 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning python programming
 - 📫 How to reach me... 
-
-* email:- 28ankit.raghu@gmail.com ; 
-* linkedin:- www.linkedin.com/in/ankit-rv ;
-* kaggle:- https://www.kaggle.com/ankittt/account
+    * email:- 28ankit.raghu@gmail.com ; 
+    * linkedin:- www.linkedin.com/in/ankit-rv ;
+    * kaggle:- https://www.kaggle.com/ankittt/account
 
 
 <!---
